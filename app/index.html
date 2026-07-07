@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Markdown Review</title>
+    <link rel="stylesheet" href="app.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>Markdown Review <span>Markieren, kommentieren, iterieren</span></h1>
+          <p id="file-label"></p>
+        </div>
+        <div class="topbar-actions">
+          <button id="reload-button" class="icon-button" type="button" title="Neu laden" aria-label="Neu laden"></button>
+        </div>
+      </header>
+
+      <section class="workspace">
+        <article class="document-panel" aria-label="Markdown document">
+          <div class="document-toolbar">
+            <div class="view-toggle" aria-label="Ansicht">
+              <button id="source-view-button" type="button" class="is-active" data-view-mode="source">Markdown</button>
+              <button id="rendered-view-button" type="button" data-view-mode="rendered">Gerendert</button>
+              <button id="edit-view-button" type="button" data-view-mode="edit">Bearbeiten</button>
+            </div>
+            <div class="editor-actions" hidden>
+              <button id="save-editor" type="button">Speichern</button>
+              <button id="cancel-editor" type="button">Verwerfen</button>
+            </div>
+          </div>
+          <div id="document" class="markdown-view"></div>
+          <div id="editor" class="markdown-editor" contenteditable="true" spellcheck="false" hidden></div>
+        </article>
+
+        <aside class="feedback-panel" aria-label="Feedback comments">
+          <section id="selection-card" class="selection-card is-empty" aria-live="polite">
+            <p class="eyebrow">Auswahl</p>
+            <blockquote id="selected-quote"></blockquote>
+            <textarea id="comment-input" rows="5" placeholder="Kommentar..."></textarea>
+            <div class="selection-actions">
+              <button id="save-comment" type="button">Kommentar speichern</button>
+              <button id="cancel-selection" class="icon-button" type="button" title="Auswahl verwerfen" aria-label="Auswahl verwerfen"></button>
+            </div>
+            <p id="save-state" class="save-state"></p>
+          </section>
+
+          <section>
+            <div class="comments-header">
+              <h2>Feedback</h2>
+              <span id="comment-count">0</span>
+            </div>
+            <div id="comments" class="comments-list"></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

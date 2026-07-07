@@ -1,0 +1,19 @@
+[[permission]]
+identifier = "allow-get-document"
+description = "Allows reading the current document and feedback sidecar"
+commands.allow = ["get_document"]
+
+[[permission]]
+identifier = "allow-save-comment"
+description = "Allows creating or updating a comment"
+commands.allow = ["save_comment"]
+
+[[permission]]
+identifier = "allow-save-editor"
+description = "Allows saving markdown edited in Bearbeiten mode"
+commands.allow = ["save_editor"]
+
+[[permission]]
+identifier = "allow-patch-comment"
+description = "Allows patching a comment's status/resolution/follow-up"
+commands.allow = ["patch_comment"]

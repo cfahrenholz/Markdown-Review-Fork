@@ -1,0 +1,21 @@
+# Rust/Tauri build output
+/src-tauri/target/
+/dist/
+
+# JavaScript dependencies, if frontend tooling is added later
+/node_modules/
+
+# Local editor and assistant state
+/.claude/
+/.codex/
+/.agents/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp

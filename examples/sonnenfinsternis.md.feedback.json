@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "file": "tools/review-board/examples/sonnenfinsternis.md",
+  "sourcePath": "/Users/ralfw/Dropbox/01 Me Team/Projects/Bootstrapping Germany/tools/review-board/examples/sonnenfinsternis.md",
+  "comments": [
+    {
+      "id": "fb-mr7qq7dq",
+      "status": "approved",
+      "quote": "Eine Sonnenfinsternis entsteht, wenn sich der Mond zwischen Erde und Sonne schiebt und sein Schatten auf die Erde fällt. Für Menschen in diesem Schatten sieht es so aus, als würde der Mond die Sonne ganz oder teilweise verdecken. Das funktioniert, obwohl die Sonne viel größer ist als der Mond: Der Mond ist der Erde sehr viel näher und erscheint deshalb am Himmel fast gleich groß wie die Sonne. Genau diese scheinbare Größenähnlichkeit macht Sonnenfinsternisse so eindrucksvoll.",
+      "quotePreview": "Eine Sonnenfinsternis entsteht, wenn sich der Mond zwischen Erde und Sonne schiebt und sein Schatten",
+      "prefix": "# Was ist eine Sonnenfinsternis?\n\n",
+      "suffix": "\n\nEs gibt drei wichtige Arten von Sonnenfinsternissen:\n\n- Bei einer totalen Sonnenfinsternis bedeckt der Mond die Sonnenscheibe vollständig.\n  - Für wenige Minu",
+      "startLine": 3,
+      "endLine": 3,
+      "startOffset": 34,
+      "endOffset": 514,
+      "contextLength": 160,
+      "anchorHash": "87629293ed56129a",
+      "comment": "übersetze ins englische",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T12:01:29.054Z",
+      "updatedAt": "2026-07-05T12:06:15.856Z",
+      "resolution": "Auf den zweiten Steer hin wurde der Piratenabsatz bildhafter gemacht: dunkles Segel, wandernder Schatten, angebissene Sonne, seltsige Dämmerung und Schatzbild.",
+      "thread": [
+        {
+          "id": "th-mr7qq7dq",
+          "type": "comment",
+          "createdAt": "2026-07-05T12:01:29.054Z",
+          "createdBy": "ralf",
+          "body": "übersetze ins englische"
+        },
+        {
+          "id": "th-mr7qrnkv-fb-mr7qq7dq",
+          "type": "redaction",
+          "createdAt": "2026-07-05T12:02:36.703Z",
+          "createdBy": "codex",
+          "body": "Der markierte Einleitungsabsatz wurde ins Englische übersetzt."
+        },
+        {
+          "id": "fu-mr7qsgzr",
+          "type": "steer",
+          "createdAt": "2026-07-05T12:03:14.823Z",
+          "createdBy": "ralf",
+          "body": "formuliere in piratensprache"
+        },
+        {
+          "id": "th-mr7qtscm-fb-mr7qq7dq",
+          "type": "redaction",
+          "createdAt": "2026-07-05T12:04:16.198Z",
+          "createdBy": "codex",
+          "body": "Auf den Steer hin wurde der englische Absatz in eine spielerische Piratensprache umformuliert."
+        },
+        {
+          "id": "fu-mr7quxtv",
+          "type": "steer",
+          "createdAt": "2026-07-05T12:05:09.955Z",
+          "createdBy": "ralf",
+          "body": "mache das etwas bildhafter."
+        },
+        {
+          "id": "th-mr7qvt5b-fb-mr7qq7dq",
+          "type": "redaction",
+          "createdAt": "2026-07-05T12:05:50.542Z",
+          "createdBy": "codex",
+          "body": "Auf den zweiten Steer hin wurde der Piratenabsatz bildhafter gemacht: dunkles Segel, wandernder Schatten, angebissene Sonne, seltsige Dämmerung und Schatzbild."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T12:05:50.542Z",
+        "appliedBy": "codex",
+        "summary": "Auf den zweiten Steer hin wurde der Piratenabsatz bildhafter gemacht: dunkles Segel, wandernder Schatten, angebissene Sonne, seltsige Dämmerung und Schatzbild.",
+        "newQuote": "Arrr, a solar eclipse be like the Moon hoisting a dark sail between Earth and the blazing Sun. Its shadow sweeps across the world like a passing ship, and anyone caught beneath it sees the Sun bitten away, piece by piece, or covered whole. Though the Sun be a mighty fire far larger than the Moon, the Moon rides much closer to our deck, so both look nearly the same size in the sky. That bit of celestial trickery turns daylight into a strange twilight and makes the spectacle feel like treasure found in the heavens.",
+        "newStartLine": 3,
+        "newEndLine": 3
+      },
+      "followUps": [
+        {
+          "id": "fu-mr7qsgzr",
+          "createdAt": "2026-07-05T12:03:14.823Z",
+          "createdBy": "ralf",
+          "comment": "formuliere in piratensprache"
+        },
+        {
+          "id": "fu-mr7quxtv",
+          "createdAt": "2026-07-05T12:05:09.955Z",
+          "createdBy": "ralf",
+          "comment": "mache das etwas bildhafter."
+        }
+      ]
+    },
+    {
+      "id": "fb-mr7qqgwd",
+      "status": "approved",
+      "quote": "Eine Sonnenfinsternis sieht man nicht überall gleich. Nur in einem schmalen Gebiet auf der Erde steht der Mond genau genug vor der Sonne. Dort kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.",
+      "quotePreview": "Eine Sonnenfinsternis sieht man nicht überall gleich. Nur in einem schmalen Gebiet auf der Erde steh",
+      "prefix": "r Sonne.\n- Bei einer ringförmigen Sonnenfinsternis bleibt ein heller Ring der Sonne sichtbar, weil der Mond scheinbar etwas kleiner ist als die Sonnenscheibe.\n\n",
+      "suffix": "\n\n## So beobachtest du die Finsternis sicher\n\nWichtig ist der Schutz der Augen. Man darf niemals direkt in die Sonne schauen, auch nicht während einer Finsterni",
+      "startLine": 14,
+      "endLine": 14,
+      "startOffset": 1245,
+      "endOffset": 1525,
+      "contextLength": 160,
+      "anchorHash": "cd62454d6ab50793",
+      "comment": "übersetze ins französische",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T12:01:41.389Z",
+      "updatedAt": "2026-07-05T12:03:03.673Z",
+      "resolution": "Der markierte Sichtbarkeitsabsatz wurde ins Französische übersetzt.",
+      "thread": [
+        {
+          "id": "th-mr7qqgwd",
+          "type": "comment",
+          "createdAt": "2026-07-05T12:01:41.389Z",
+          "createdBy": "ralf",
+          "body": "übersetze ins französische"
+        },
+        {
+          "id": "th-mr7qrnkv-fb-mr7qqgwd",
+          "type": "redaction",
+          "createdAt": "2026-07-05T12:02:36.703Z",
+          "createdBy": "codex",
+          "body": "Der markierte Sichtbarkeitsabsatz wurde ins Französische übersetzt."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T12:02:36.703Z",
+        "appliedBy": "codex",
+        "summary": "Der markierte Sichtbarkeitsabsatz wurde ins Französische übersetzt.",
+        "newQuote": "Une éclipse solaire ne se voit pas de la même façon partout. Ce n'est que dans une zone étroite de la Terre que la Lune se place assez exactement devant le Soleil. Là, l'éclipse peut être totale. Un peu à côté, on ne voit le Soleil que partiellement caché, et plus loin encore, on ne remarque souvent rien du tout.",
+        "newStartLine": 14,
+        "newEndLine": 14
+      }
+    },
+    {
+      "id": "fb-mr7x4bps",
+      "status": "approved",
+      "quote": "Une éclipse solaire ne se voit pas de la même façon partout. Ce n'est que dans une zone étroite de la Terre que la Lune se place assez exactement devant le Soleil. Là, l'éclipse peut être totale. Un peu à côté, on ne voit le Soleil que partiellement caché, et plus loin encore, on ne remarque souvent rien du tout.",
+      "quotePreview": "Une éclipse solaire ne se voit pas de la même façon partout. Ce n'est que dans une zone étroite de l",
+      "prefix": "nnen sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt häufig um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Bei einer partiellen Sonnenfinsternis verdeckt der Mond nur einen Teil der Sonne.\n- Bei einer ringförmigen Sonnenfinsternis bleibt ein heller Ring der Sonne sichtbar, weil der Mond scheinbar etwas kleiner ist als die Scheibe der Sonne.\n\n",
+      "suffix": "\n\n## So beobachtest du die Finsternis sicher\n\nWichtig ist der Schutz der Augen. Man darf niemals direkt in die Sonne schauen, auch nicht während einer Finsternis. Geeignete Sonnenfinsternisbrillen oder spezielle Filter sind notwendig, weil das Sonnenlicht die Netzhaut dauerhaft schädigen kann.\n\nSonnenfinsternisse sind selten an einem bestimmten Ort, aber sie passieren weltweit regelmäßig. Dass sie so eindrucksvoll wirken, liegt an einem besonderen Zufall: Sonne und Mond erscheinen von der Erde a",
+      "startLine": 14,
+      "endLine": 14,
+      "startOffset": 1295,
+      "endOffset": 1609,
+      "contextLength": 160,
+      "anchorHash": "1b689d263bb76834",
+      "comment": "ins deutsche übersetzen",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:00:25.552Z",
+      "updatedAt": "2026-07-05T15:07:20.752Z",
+      "resolution": "Der markierte französische Absatz wurde wieder ins Deutsche übersetzt.",
+      "thread": [
+        {
+          "id": "th-mr7x4bpt",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:00:25.552Z",
+          "createdBy": "ralf",
+          "body": "ins deutsche übersetzen"
+        },
+        {
+          "id": "th-mr7x7v78-fb-mr7x4bps",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:03:10.771Z",
+          "createdBy": "codex",
+          "body": "Der markierte französische Absatz wurde wieder ins Deutsche übersetzt."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:03:10.771Z",
+        "appliedBy": "codex",
+        "summary": "Der markierte französische Absatz wurde wieder ins Deutsche übersetzt.",
+        "newQuote": "Eine Sonnenfinsternis sieht man nicht überall gleich. Nur in einem schmalen Gebiet auf der Erde steht der Mond genau genug vor der Sonne. Dort kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.",
+        "newStartLine": 14,
+        "newEndLine": 14
+      }
+    },
+    {
+      "id": "fb-mr7x5cdw",
+      "status": "approved",
+      "quote": "Arrr, a darkening of the sun be like the Moon hoisting a black sail between Earth and the blazing Sun. Its shadow sweeps across the world like a passing ship, and anyone caught beneath it sees the Sun bitten away, piece by piece, or covered whole. Though the Sun be a mighty fire far larger than the Moon, the Moon rides much closer to our deck, so both look nearly the same size in the sky. That bit of celestial trickery turns daylight into a strange twilight and makes the spectacle feel like treasure found in the heavens.",
+      "quotePreview": "Arrr, a darkening of the sun be like the Moon hoisting a black sail between Earth and the blazing Su",
+      "prefix": "# Was ist eine Sonnenfinsternis?\n\n",
+      "suffix": "\n\nEs gibt drei wichtige Arten von Sonnenfinsternissen:\n\n- Bei einer totalen Sonnenfinsternis bedeckt der Mond die Sonnenscheibe vollständig.\n  - Für wenige Minuten wird es so dunkel wie in der Dämmerung; bei einer totalen Finsternis können sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt häufig um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Be",
+      "startLine": 3,
+      "endLine": 3,
+      "startOffset": 34,
+      "endOffset": 560,
+      "contextLength": 160,
+      "anchorHash": "bc5203403485b2e0",
+      "comment": "formuliere in elfensprache",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:01:13.076Z",
+      "updatedAt": "2026-07-05T15:06:48.632Z",
+      "resolution": "Der markierte englische Piratenabsatz wurde in eine poetische Elfensprache auf Deutsch umformuliert.",
+      "thread": [
+        {
+          "id": "th-mr7x5cdx",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:01:13.076Z",
+          "createdBy": "ralf",
+          "body": "formuliere in elfensprache"
+        },
+        {
+          "id": "th-mr7x7v78-fb-mr7x5cdw",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:03:10.771Z",
+          "createdBy": "codex",
+          "body": "Der markierte englische Piratenabsatz wurde in eine poetische Elfensprache auf Deutsch umformuliert."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:03:10.771Z",
+        "appliedBy": "codex",
+        "summary": "Der markierte englische Piratenabsatz wurde in eine poetische Elfensprache auf Deutsch umformuliert.",
+        "newQuote": "Im silbernen Lauf der Himmel tritt der Mond vor das goldene Antlitz der Sonne und breitet einen stillen Schatten über die Erde. Wer in diesem Schatten steht, sieht, wie das Licht der Sonne sanft schwindet, als lege sich ein dunkler Schleier vor ihr Feuer. Obwohl die Sonne gewaltig größer ist als der Mond, erscheint der Mond uns nahe genug, um ihr Licht für einen kostbaren Augenblick zu verhüllen. So wird der helle Tag zu einer geheimnisvollen Dämmerung, als lausche die Welt einem alten Lied der Sterne.",
+        "newStartLine": 3,
+        "newEndLine": 3
+      }
+    },
+    {
+      "id": "fb-mr7xfda6",
+      "status": "approved",
+      "quote": "Arrr, a darkening of the sun be like the pale kitchen help in the sky hoisting a black sail between Earth and the blazing Sun. Its shadow sweeps across the world like a passing ship, and anyone caught beneath it sees the Sun bitten away, piece by piece, or covered whole. Though the Sun be a mighty fire far larger than the Moon, the Moon rides much closer to our deck, so both look nearly the same size in the sky. That bit of celestial trickery turns daylight into a strange twilight and makes the spectacle feel like treasure found in the heavens.",
+      "quotePreview": "Arrr, a darkening of the sun be like the pale kitchen help in the sky hoisting a black sail between ",
+      "prefix": "# Was ist eine Sonnenfinsternis?\n\n",
+      "suffix": "\n\nEs gibt drei wichtige Arten von Sonnenfinsternissen:\n\n- Bei einer totalen Sonnenfinsternis bedeckt der Mond die Sonnenscheibe vollständig.\n  - Für wenige Minuten wird es so dunkel wie in der Dämmerung; bei einer totalen Finsternis können sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt häufig um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Be",
+      "startLine": 3,
+      "endLine": 3,
+      "startOffset": 34,
+      "endOffset": 584,
+      "contextLength": 160,
+      "anchorHash": "e8e3c57e20f5efcc",
+      "comment": "das ist immer noch nicht poetische elfensprache",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:09:00.798Z",
+      "updatedAt": "2026-07-05T15:11:16.878Z",
+      "resolution": "Der Absatz wurde ohne Piraten-/Küchenbild in eine ruhigere, poetische Elfensprache umformuliert: silberner Schatten, Nachtseide, altes Lied der Sterne.",
+      "thread": [
+        {
+          "id": "th-mr7xfda6",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:09:00.798Z",
+          "createdBy": "ralf",
+          "body": "das ist immer noch nicht poetische elfensprache"
+        },
+        {
+          "id": "th-mr7xhdhx-fb-mr7xfda6",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:10:34.388Z",
+          "createdBy": "codex",
+          "body": "Der Absatz wurde ohne Piraten-/Küchenbild in eine ruhigere, poetische Elfensprache umformuliert: silberner Schatten, Nachtseide, altes Lied der Sterne."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:10:34.388Z",
+        "appliedBy": "codex",
+        "summary": "Der Absatz wurde ohne Piraten-/Küchenbild in eine ruhigere, poetische Elfensprache umformuliert: silberner Schatten, Nachtseide, altes Lied der Sterne.",
+        "newQuote": "Wenn der Mond auf stiller Bahn vor das goldene Herz der Sonne tritt, senkt sich ein silberner Schatten über die Erde. Wer unter diesem Schatten steht, sieht das Licht der Sonne schwinden, als zöge ein Schleier aus Nachtseide vor ihr Feuer. Obwohl die Sonne unermesslich größer ist als der Mond, erscheint der Mond uns nahe genug, um sie für einen kostbaren Augenblick zu verhüllen. So wird der Tag zur Dämmerung, und die Welt hält den Atem an, als lausche sie einem alten Lied der Sterne.",
+        "newStartLine": 3,
+        "newEndLine": 3,
+        "newStartOffset": 34,
+        "newEndOffset": 522
+      }
+    },
+    {
+      "id": "fb-mr7xfjts",
+      "status": "approved",
+      "quote": "Une éclipse solaire ne se voit pas de la même façon partout. Là, l'éclipse peut être totale. Un peu à côté, on ne voit le Soleil que partiellement caché, et plus loin encore, on ne remarque souvent rien du tout.",
+      "quotePreview": "Une éclipse solaire ne se voit pas de la même façon partout. Là, l'éclipse peut être totale. Un peu ",
+      "prefix": "nnen sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt häufig um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Bei einer partiellen Sonnenfinsternis verdeckt der Mond nur einen Teil der Sonne.\n- Bei einer ringförmigen Sonnenfinsternis bleibt ein heller Ring der Sonne sichtbar, weil der Mond scheinbar etwas kleiner ist als die Scheibe der Sonne.\n\n",
+      "suffix": "\n\n## So beobachtest du die Finsternis sicher\n\nWichtig ist der Schutz der Augen. Man darf niemals direkt in die Sonne schauen, auch nicht während einer Finsternis. Geeignete Sonnenfinsternisbrillen oder spezielle Filter sind notwendig, weil das Sonnenlicht die Netzhaut dauerhaft schädigen kann.\n\nSonnenfinsternisse sind selten an einem bestimmten Ort, aber sie passieren weltweit regelmäßig. Dass sie so eindrucksvoll wirken, liegt an einem besonderen Zufall: Sonne und Mond erscheinen von der Erde a",
+      "startLine": 14,
+      "endLine": 14,
+      "startOffset": 1319,
+      "endOffset": 1530,
+      "contextLength": 160,
+      "anchorHash": "17d411fab52a9cbe",
+      "comment": "das ist noch nicht deutsch",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:09:09.280Z",
+      "updatedAt": "2026-07-05T15:11:15.549Z",
+      "resolution": "Der markierte französische Absatz wurde vollständig auf Deutsch formuliert.",
+      "thread": [
+        {
+          "id": "th-mr7xfjts",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:09:09.280Z",
+          "createdBy": "ralf",
+          "body": "das ist noch nicht deutsch"
+        },
+        {
+          "id": "th-mr7xhdhx-fb-mr7xfjts",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:10:34.388Z",
+          "createdBy": "codex",
+          "body": "Der markierte französische Absatz wurde vollständig auf Deutsch formuliert."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:10:34.388Z",
+        "appliedBy": "codex",
+        "summary": "Der markierte französische Absatz wurde vollständig auf Deutsch formuliert.",
+        "newQuote": "Eine Sonnenfinsternis sieht man nicht überall gleich. Dort, wo der Mond genau vor der Sonne steht, kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.",
+        "newStartLine": 14,
+        "newEndLine": 14,
+        "newStartOffset": 1298,
+        "newEndOffset": 1534
+      }
+    },
+    {
+      "id": "fb-mr7xio73",
+      "status": "approved",
+      "quote": "Bei einer totalen Sonnenfinsternis wird die Sonnenscheibe aus Sicht der Beobachtenden vollständig durch den Mond okkultiert.",
+      "quotePreview": "Bei einer totalen Sonnenfinsternis wird die Sonnenscheibe aus Sicht der Beobachtenden vollständig du",
+      "prefix": " Herz der Sonne tritt, senkt sich ein silberner Schatten über die Erde. Wer unter diesem Schatten steht, sieht das Licht der Sonne schwinden, als zöge ein Schleier aus Nachtseide vor ihr Feuer. Obwohl die Sonne unermesslich größer ist als der Mond, erscheint der Mond uns nahe genug, um sie für einen kostbaren Augenblick zu verhüllen. So wird der Tag zur Dämmerung, und die Welt hält den Atem an, als lausche sie einem alten Lied der Sterne.\n\nEs gibt drei wichtige Arten von Sonnenfinsternissen:\n\n- ",
+      "suffix": "\n  - Für wenige Minuten wird es so dunkel wie in der Dämmerung; bei einer totalen Finsternis können sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt IMMER um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Bei einer partiellen Sonnenfinsternis verdeckt der Mond nur einen Teil der Sonne.\n- Bei einer ringförmigen Sonnenfinsternis bleibt ein heller R",
+      "startLine": 7,
+      "endLine": 7,
+      "startOffset": 580,
+      "endOffset": 704,
+      "contextLength": 160,
+      "anchorHash": "1b366d7188272fc3",
+      "comment": "formuliere das wie ein professor",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:11:34.911Z",
+      "updatedAt": "2026-07-05T15:21:41.319Z",
+      "resolution": "Die Aussage wurde professoraler formuliert, mit fachlicherem Ausdruck wie Sonnenscheibe, Beobachtende und okkultiert.",
+      "thread": [
+        {
+          "id": "th-mr7xio73",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:11:34.911Z",
+          "createdBy": "ralf",
+          "body": "formuliere das wie ein professor"
+        },
+        {
+          "id": "th-mr7xk0x6-fb-mr7xio73",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:12:38.058Z",
+          "createdBy": "codex",
+          "body": "Die Aussage wurde professoraler formuliert, mit fachlicherem Ausdruck wie Sonnenscheibe, Beobachtende und okkultiert."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:12:38.058Z",
+        "appliedBy": "codex",
+        "summary": "Die Aussage wurde professoraler formuliert, mit fachlicherem Ausdruck wie Sonnenscheibe, Beobachtende und okkultiert.",
+        "newQuote": "Bei einer totalen Sonnenfinsternis wird die Sonnenscheibe aus Sicht der Beobachtenden vollständig durch den Mond okkultiert.",
+        "newStartLine": 7,
+        "newEndLine": 7,
+        "newStartOffset": 580,
+        "newEndOffset": 704
+      }
+    },
+    {
+      "id": "fb-mr7xthqh",
+      "status": "approved",
+      "quote": "Eine Sonnenfinsternis sieht man nicht überall gleich. Dort, wo der Mond genau vor der Sonne steht, kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.",
+      "quotePreview": "Eine Sonnenfinsternis sieht man nicht überall gleich. Dort, wo der Mond genau vor der Sonne steht, k",
+      "prefix": "önnen sogar helle Sterne oder Planeten sichtbar werden.\n  - Die Temperatur sinkt IMMER um einige Grad Celsius; je nach Ort, Wetter und Dauer können es etwa 2 bis 5 Grad sein.\n  - Rund um den Mond kann der helle äußere Rand der Sonnenatmosphäre sichtbar werden.\n- Bei einer partiellen Sonnenfinsternis verdeckt der Mond nur einen Teil der Sonne.\n- Bei einer ringförmigen Sonnenfinsternis bleibt ein heller Ring der Sonne sichtbar, weil der Mond scheinbar etwas kleiner ist als die Scheibe der Sonne.\n\n",
+      "suffix": "\n\n## So beobachtest du die Finsternis sicher\n\nWichtig ist der Schutz der Augen. Man darf niemals direkt in die Sonne schauen, auch nicht während einer Finsternis. Geeignete Sonnenfinsternisbrillen oder spezielle Filter sind notwendig, weil das Sonnenlicht die Netzhaut dauerhaft schädigen kann.\n\nSonnenfinsternisse sind selten an einem bestimmten Ort, aber sie passieren weltweit regelmäßig. Dass sie so eindrucksvoll wirken, liegt an einem besonderen Zufall: Sonne und Mond erscheinen von der Erde a",
+      "startLine": 14,
+      "endLine": 14,
+      "startOffset": 1298,
+      "endOffset": 1534,
+      "contextLength": 160,
+      "anchorHash": "9e3a50ea992fa5db",
+      "comment": "das klingt gut",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:19:59.753Z",
+      "updatedAt": "2026-07-05T15:25:17.215Z",
+      "resolution": "Die positive Rückmeldung wurde als verstanden dokumentiert; am Sichtbarkeitsabsatz wurde nichts geändert.",
+      "thread": [
+        {
+          "id": "th-mr7xthqh",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:19:59.753Z",
+          "createdBy": "ralf",
+          "body": "das klingt gut"
+        },
+        {
+          "id": "th-mr7xz90q-fb-mr7xthqh",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:24:28.394Z",
+          "createdBy": "codex",
+          "body": "Die positive Rückmeldung wurde als verstanden dokumentiert; am Sichtbarkeitsabsatz wurde nichts geändert."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:24:28.394Z",
+        "appliedBy": "codex",
+        "summary": "Die positive Rückmeldung wurde als verstanden dokumentiert; am Sichtbarkeitsabsatz wurde nichts geändert.",
+        "newQuote": "Eine Sonnenfinsternis sieht man nicht überall gleich. Dort, wo der Mond genau vor der Sonne steht, kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.",
+        "newStartLine": 14,
+        "newEndLine": 14,
+        "newStartOffset": 1282,
+        "newEndOffset": 1518
+      }
+    },
+    {
+      "id": "fb-mr7xvw4n",
+      "status": "approved",
+      "quote": "So beobachtest du die Finsternis sicher",
+      "quotePreview": "So beobachtest du die Finsternis sicher",
+      "prefix": " der Sonne steht, kann die Finsternis total sein. Etwas daneben sieht man die Sonne nur teilweise verdeckt, und weiter entfernt bemerkt man oft gar nichts.\n\n## ",
+      "suffix": "\n\nWichtig ist der Schutz der Augen. Man darf niemals direkt in die Sonne schauen, auch nicht während einer Finsternis. Geeignete Sonnenfinsternisbrillen oder sp",
+      "startLine": 16,
+      "endLine": 16,
+      "startOffset": 1539,
+      "endOffset": 1578,
+      "contextLength": 160,
+      "anchorHash": "5d0f9bafff64d80a",
+      "comment": "kürzen",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:21:51.719Z",
+      "updatedAt": "2026-07-05T15:25:19.815Z",
+      "resolution": "Die Überschrift wurde gekürzt.",
+      "thread": [
+        {
+          "id": "th-mr7xvw4n",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:21:51.719Z",
+          "createdBy": "ralf",
+          "body": "kürzen"
+        },
+        {
+          "id": "th-mr7xz90q-fb-mr7xvw4n",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:24:28.394Z",
+          "createdBy": "codex",
+          "body": "Die Überschrift wurde gekürzt."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:24:28.394Z",
+        "appliedBy": "codex",
+        "summary": "Die Überschrift wurde gekürzt.",
+        "newQuote": "Sicher beobachten",
+        "newStartLine": 16,
+        "newEndLine": 16,
+        "newStartOffset": 1523,
+        "newEndOffset": 1540
+      }
+    },
+    {
+      "id": "fb-mr7xw4z6",
+      "status": "approved",
+      "quote": "Es gibt drei wichtige Arten von Sonnenfinsternissen:",
+      "quotePreview": "Es gibt drei wichtige Arten von Sonnenfinsternissen:",
+      "prefix": "um sie für einen kostbaren Augenblick zu verhüllen. So wird der Tag zur Dämmerung, und die Welt hält den Atem an, als lausche sie einem alten Lied der Sterne.\n\n",
+      "suffix": "\n\n- Bei einer totalen Sonnenfinsternis wird die Sonnenscheibe aus Sicht der Beobachtenden vollständig durch den Mond okkultiert.\n  - Für wenige Minuten wird es ",
+      "startLine": 5,
+      "endLine": 5,
+      "startOffset": 524,
+      "endOffset": 576,
+      "contextLength": 160,
+      "anchorHash": "39ec2bf3a51f2b6c",
+      "comment": "etwas blumiger",
+      "createdBy": "ralf",
+      "createdAt": "2026-07-05T15:22:03.186Z",
+      "updatedAt": "2026-07-05T15:25:10.492Z",
+      "resolution": "Die Überschrift zu den Arten wurde etwas blumiger formuliert.",
+      "thread": [
+        {
+          "id": "th-mr7xw4z6",
+          "type": "comment",
+          "createdAt": "2026-07-05T15:22:03.186Z",
+          "createdBy": "ralf",
+          "body": "etwas blumiger"
+        },
+        {
+          "id": "th-mr7xz90q-fb-mr7xw4z6",
+          "type": "redaction",
+          "createdAt": "2026-07-05T15:24:28.394Z",
+          "createdBy": "codex",
+          "body": "Die Überschrift zu den Arten wurde etwas blumiger formuliert."
+        }
+      ],
+      "applied": {
+        "appliedAt": "2026-07-05T15:24:28.394Z",
+        "appliedBy": "codex",
+        "summary": "Die Überschrift zu den Arten wurde etwas blumiger formuliert.",
+        "newQuote": "Drei Gestalten der Sonnenfinsternis:",
+        "newStartLine": 5,
+        "newEndLine": 5,
+        "newStartOffset": 524,
+        "newEndOffset": 560
+      }
+    }
+  ],
+  "updatedAt": "2026-07-05T15:25:19.815Z"
+}
