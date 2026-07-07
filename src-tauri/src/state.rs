@@ -35,4 +35,8 @@ impl AppState {
     pub fn label_for_path(&self, path: &PathBuf) -> Option<String> {
         self.open_docs.lock().unwrap().get(path).cloned()
     }
+
+    pub fn has_open_docs(&self) -> bool {
+        !self.open_docs.lock().unwrap().is_empty()
+    }
 }

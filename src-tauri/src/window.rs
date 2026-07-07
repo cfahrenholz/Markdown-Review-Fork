@@ -69,14 +69,25 @@ pub fn open_document_window(app: &AppHandle, path: PathBuf) -> Result<(), String
 /// click): show a native "choose a .md file" dialog instead of a blank
 /// window.
 pub fn open_with_file_picker(app: AppHandle) {
+    if app.state::<AppState>().has_open_docs() {
+        return;
+    }
+
     app.dialog()
         .file()
         .add_filter("Markdown", &["md"])
         .pick_file(move |file_path| {
-            let Some(file_path) = file_path else { return };
-            let Some(path) = file_path.into_path().ok() else { return };
+            let Some(file_path) = file_path else {
+                app.exit(0);
+                return;
+            };
+            let Some(path) = file_path.into_path().ok() else {
+                app.exit(1);
+                return;
+            };
             if let Err(err) = open_document_window(&app, path) {
                 eprintln!("Failed to open document window: {err}");
+                app.exit(1);
             }
         });
 }
