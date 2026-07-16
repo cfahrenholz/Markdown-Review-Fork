@@ -1,0 +1,14 @@
+{
+  "name": "markdown-review",
+  "version": "0.1.0",
+  "description": "Markdown Review – local review tool for Markdown files",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:debug": "node scripts/build.mjs --debug",
+    "start": "node scripts/start.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

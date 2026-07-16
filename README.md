@@ -9,6 +9,7 @@ Das Tool ist fuer Autorinnen, Autoren und KI-Assistenten gedacht, die gemeinsam 
 - macOS auf Apple Silicon fuer das mitgelieferte App-Bundle
 - Rust/Cargo nur fuer Entwicklung oder lokale Builds
 - Funktioniert lokal und offline
+- Fuer Betrieb unter Windows [siehe README.WINDOWS.md](README.WINDOWS.md)
 
 ## Installation
 
